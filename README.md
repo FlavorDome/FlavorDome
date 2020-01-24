@@ -17,3 +17,7 @@ channel layer for the websockets used to implement the multiplayer experience. F
 crafted using Vue, with Vuex interacting with the websockets to ensure that all participants move through
 the experience simultaneously and share their ratings in real time. This frontend was bundled and served
 utilizing webpack.
+
+## Want to check it out for yourself?
+  Flavordome is up and running at https://flavordome.herokuapp.com. FlavorDome was built as a mobile-first
+application. For the best experience, we recommend using your smartphone.
